@@ -1,3 +1,3 @@
 # decedent_xeno
-# Donor-reactive T cells and innate immune cells promote pig-to-human decedent xenograft rejection
-This repository contains the code for all bulk TCRB CDR3 data analysis in the Science manuscript "Donor-reactive T cells and innate immune cells promote pig-to-human decedent xenograft rejection".
+# Comprehensive Analysis of Long-Term Pig-to-Human Decedent Kidney Xeno-Transplant
+This repository contains the code for all bulk gDNA TCRB CDR3 data analysis in the Nature manuscript "Comprehensive Analysis of Long-Term Pig-to-Human Decedent Kidney Xeno-Transplant".
