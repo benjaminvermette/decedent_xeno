@@ -3,7 +3,7 @@
 library(readr)
 
 # Path to zip file from Adaptive
-zip_path <- "C:/Users/bv2269/Downloads/sampleExport.zip"
+zip_path <- "sampleExport.zip"
 
 # List all files inside the zip
 tsv_files <- unzip(zip_path, list = TRUE)$Name
@@ -275,5 +275,6 @@ NonXDRTCCsinPreTx <- data_list$`Unstim-XKLT001-POD0-PBMC`[
 
 # compute nucleotide-per-aa for non-xdrtccs preTx
 length(unique(NonXDRTCCsinPreTx$nucleotide)) / length(unique(NonXDRTCCsinPreTx$aminoAcid))
+
 
 
