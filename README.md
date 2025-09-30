@@ -29,24 +29,20 @@ The scripts and workflows provided here reproduce the analyses of TCRβ repertoi
 - R (≥ 4.3.0)
 - Raw data can be downloaded from Adaptive Biotechnologies' **immuneACCESS** database. Detailed instructions for retrieving and formatting the data are included in the scripts.
 
-## Usage
-
-### 1) Clone this repository
-```bash
-git clone https://github.com/benjaminvermette/decedent_xeno.git
-cd decedent_xeno```
-
-### Citation
+## Citation
 If you use this code in your research, please cite:  
 
-[Full Citation of Paper (to be updated upon acceptance)]
+[Full Citation of Paper (to be updated)]
 
----
-
-### Contact
+## Contact
 For questions, please contact:  
 
 - Benjamin Vermette (bv2269@cumc.columbia.edu)  
 - Farshid Fathi (ff2495@cumc.columbia.edu)  
 - Nathan Suek (ns3435@cumc.columbia.edu)
 - Megan Sykes (ms3976@cumc.columbia.edu)
+
+## Clone this repository
+```bash
+git clone https://github.com/benjaminvermette/decedent_xeno.git
+cd decedent_xeno
