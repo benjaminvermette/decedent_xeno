@@ -36,14 +36,14 @@ The scripts and workflows provided here reproduce the analyses of TCRβ repertoi
 git clone https://github.com/benjaminvermette/decedent_xeno.git
 cd decedent_xeno
 
-## Citation
+### Citation
 If you use this code in your research, please cite:  
 
 [Full Citation of Paper (to be updated upon acceptance)]
 
 ---
 
-## Contact
+### Contact
 For questions, please contact:  
 
 - Benjamin Vermette (bv2269@cumc.columbia.edu)  
