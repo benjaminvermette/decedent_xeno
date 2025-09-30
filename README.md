@@ -11,20 +11,30 @@ This repository contains the code used to analyze **bulk gDNA TCRB CDR3 sequenci
 The scripts and workflows provided here reproduce the analyses of TCRβ repertoires described in the paper. They include data preprocessing, repertoire characterization, statistical testing, and figure generation.
 
 ## Repository Structure
-- `scripts/` – R scripts used for data analysis and visualization.
-- `helper/` - R functions necessary for data cleaning and formatting.
-- `stats/` - R scripts used for statistical analysis.
-- `README.md` – this file.
+- `scripts/` – analysis/figure scripts  
+  Each script is associated with one or more figures in the manuscript.  
+  **Note:** while scripts are linked to specific figures, most analyses rely on outputs from other scripts, so they often need to be run together as specified in the workflow.  
+
+  - `Identifying_XDRTCCs.R` (Figure 3D; Extended Figure 5A)
+  - `Identifying_NonXDRTCCs.R` (Figures 3E & 3F)
+  - `RelativeAbundancePlots.R` (Figure 3A)
+  - `AlluvialPlots.R` (Figures 3B & 3C)
+  - `Nucleotide_to_AA_ConvergenceAnalysis.R` (Extended Figure 5B)
+- `helper/` – functions for cleaning/formatting
+- `stats/` – statistical testing scripts
+- `README.md`
+
 
 ## Requirements
-- R (≥ 4.0)
-- Commonly used packages: `tidyverse`, `data.table`, `ggplot2`, `reshape2`, etc.
+- R (≥ 4.3.0)
 - Raw data can be downloaded from Adaptive Biotechnologies' **immuneACCESS** database. Detailed instructions for retrieving and formatting the data are included in the scripts.
 
 ## Usage
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/benjaminvermette/decedent_xeno].git
+
+### 1) Clone this repository
+```bash
+git clone https://github.com/benjaminvermette/decedent_xeno.git
+cd decedent_xeno
 
 ## Citation
 If you use this code in your research, please cite:  
