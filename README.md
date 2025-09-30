@@ -34,7 +34,7 @@ The scripts and workflows provided here reproduce the analyses of TCRβ repertoi
 ### 1) Clone this repository
 ```bash
 git clone https://github.com/benjaminvermette/decedent_xeno.git
-cd decedent_xeno
+cd decedent_xeno```
 
 ### Citation
 If you use this code in your research, please cite:  
