@@ -40,8 +40,6 @@ For questions, please contact:
 - Benjamin Vermette (bv2269@cumc.columbia.edu)  
 - Farshid Fathi (ff2495@cumc.columbia.edu)  
 - Nathan Suek (ns3435@cumc.columbia.edu)
-- Megan Sykes (ms3976@cumc.columbia.edu)
-
 ## Clone this repository
 ```bash
 git clone https://github.com/benjaminvermette/decedent_xeno.git
