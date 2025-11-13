@@ -28,7 +28,7 @@ The scripts and workflows provided here reproduce the analyses of TCRβ repertoi
 
 ## Requirements
 - R (≥ 4.3.0)
-- Raw data can be downloaded from Adaptive Biotechnologies' **immuneACCESS** database. Detailed instructions for retrieving and formatting the data are included in the scripts.
+- Raw data can be downloaded from Adaptive Biotechnologies' **immuneACCESS** database (https://doi.org/10.21417/RM2025N). Detailed instructions for retrieving and formatting the data are included in the scripts.
 
 ## Citation
 If you use this code in your research, please cite:  
