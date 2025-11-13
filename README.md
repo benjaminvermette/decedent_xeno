@@ -5,7 +5,7 @@ This repository contains the code used to analyze **bulk gDNA TCRB CDR3 sequenci
 
 > **Physiology and immunology of pig-to-human decedent kidney xenotransplant**
 ---
-> https://doi.org/10.1038/s41586-025-09847-6
+https://doi.org/10.1038/s41586-025-09847-6
 ---
 
 ## Overview
