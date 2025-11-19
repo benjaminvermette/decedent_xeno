@@ -33,7 +33,7 @@ The scripts and workflows provided here reproduce the analyses of TCRβ repertoi
 ## Citation
 If you use this code in your research, please cite:  
 
-[Full Citation of Paper (to be updated)]
+[Montgomery, R.A., Stern, J.M., Fathi, F. et al. Physiology and immunology of pig-to-human decedent kidney xenotransplant. Nature (2025). https://doi.org/10.1038/s41586-025-09847-6]
 
 ## Contact
 For questions, please contact:  
